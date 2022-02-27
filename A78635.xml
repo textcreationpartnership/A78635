@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties answer to a message sent to him by the House of Commons, at Yorke, March 19. 1641. Also two remarkable letters from Ireland sent over by Robert Pickering, secretary unto Sir Symon Harcourt, March, 17. 1641. The first being the copy of a letter written by the Earle of Osmond one of the commanders of the rebels, unto the Earle of Delvin, wherein he declares the great distresse they are in for want of ammunition and other provision, and also frustrate of the reliefe they hoped for out of Flanders. Which letter and bearer was intercepted by the night scouts of Sir Symon Harcourt. The second, the copie of the Popes Bull sent unto the Irish rebels, found in the trunke of Macke Orobie, his legate, who was taken prisoner in the Lord Mountgarrets quarter.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78635</idno>
+            <idno type="STC">Wing C2101</idno>
+            <idno type="STC">Thomason E140_25</idno>
+            <idno type="STC">ESTC R18981</idno>
+            <idno type="EEBO-CITATION">99860523</idno>
+            <idno type="PROQUEST">99860523</idno>
+            <idno type="VID">156547</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78635)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156547)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E140[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties answer to a message sent to him by the House of Commons, at Yorke, March 19. 1641. Also two remarkable letters from Ireland sent over by Robert Pickering, secretary unto Sir Symon Harcourt, March, 17. 1641. The first being the copy of a letter written by the Earle of Osmond one of the commanders of the rebels, unto the Earle of Delvin, wherein he declares the great distresse they are in for want of ammunition and other provision, and also frustrate of the reliefe they hoped for out of Flanders. Which letter and bearer was intercepted by the night scouts of Sir Symon Harcourt. The second, the copie of the Popes Bull sent unto the Irish rebels, found in the trunke of Macke Orobie, his legate, who was taken prisoner in the Lord Mountgarrets quarter.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Osmond, Charles Osmond, Earl of.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>Catholic Church. Pope (1623-1644 : Urban VIII)</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Urban, --  Pope, 1568-1644 --  Early works to 1800.</term>
+               <term>Mountgarret, Richard Butler, --  Viscount, 1578-1651 --  Early works to 1800.</term>
+               <term>Pickering, Robert, 17th cent --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156547:1"/>
+            <pb facs="tcp:156547:1" rendition="simple:additions"/>
+            <p>His Maieſties Anſwer to a Meſſage ſent to him by the Houſe of Commons, at <hi>Yorke, March</hi> 19. 1641.</p>
+            <p>ALSO Two Remarkable Letters from IRELAND Sent over by <hi>Robert Pickering,</hi> Secretary unto Sir <hi>Symon Harcourt, March,</hi> 17. 1641.</p>
+            <p>The firſt being the Copy of a Letter written by the Earle of <hi>Oſmond</hi> one of the Com<g ref="char:EOLhyphen"/>manders of the Rebels, unto the Earle of <hi>Delvin,</hi> wherein he declares the great diſtreſſe they are in for want of Ammunition and other Proviſion, and alſo fruſtrate of the reliefe they hoped for out of <hi>Flanders.</hi>
+            </p>
+            <p>Which Letter and Bearer was intercepted by the night Scouts of Sir <hi>Symon Harcourt.</hi>
+            </p>
+            <p>The ſecond, the Copie of the Popes <hi>Bull</hi> ſent un<g ref="char:EOLhyphen"/>to the <hi>Iriſh</hi> Rebels, found in the Trunke of <hi>Macke Oro<g ref="char:EOLhyphen"/>bie,</hi> his Legate, who was taken priſoner in the Lord <hi>Mountgarrets</hi> Quarter.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Thomas.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156547:2"/>
+            <pb facs="tcp:156547:2"/>
+            <head>The Copie of a Letter written by the Earle of <hi>Oſmond</hi> a Commander of the Rebels, unto the Earle of <hi>Delvia,</hi> that lay at the Head of <hi>Hoare.</hi>
+            </head>
+            <opener>
+               <salute>COUZEN;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Wiſh J could ſalute you with bet<g ref="char:EOLhyphen"/>ter Newes, or you ſerved me with better Councell, when it would have ſtood me in ſtead; J give us all for undone, onely this choice as yet is left us, that wee may chooſe the Sword before the Halter, <hi>Tom Butler</hi> writes from <hi>Bruſſels:</hi> That the <hi>Spaniard</hi> loves us well, but himſelfe a great deale better: I he Governout of <hi>Flanders</hi> hath made ſtay of the Ships in <hi>Dunkirke,</hi> norwithſtanding the meanes he made to his Confeſſor, who laboured by all Jmportunity to get the Am<g ref="char:EOLhyphen"/>munition free, if not the bottomes, but could obtain nothing we then deale effectually with the Governour and Captaine of <hi>Dunkirke</hi> by the Sollicitation of the <hi>Iriſh</hi> Cloiſter, to let them ſteate away as if it were unknowne to them, but nei<g ref="char:EOLhyphen"/>ther would heare him. The Count from <hi>Bruſſels</hi> had beene aſore him, and had layd ſuch a ſtrict charge upon him, that
+<pb facs="tcp:156547:3"/>
+he would liſten to nothing: The King of <hi>Spaine</hi> in this caſe, his reaſon is ſetcht from <hi>Portugall,</hi> that none of the <hi>Engliſh</hi> may helpe againſt him. he with holds his wonted ayd to us, but the <hi>Engliſh</hi> will as certainly deceive him, when their owne turne is ſerved and they have made an end with us: The <hi>Spaniard</hi> will find more <hi>Engliſh</hi> in <hi>Portugall</hi> then he will be willing to bid welcome, they hate him as cordially as us, and us the more for the Reſpect bore us from <hi>Spaine.</hi>
+            </p>
+            <p>More Forces are arrived from <hi>England,</hi> 400 vnder the command of one <hi>Greenvill,</hi> with 700 more, the <hi>Scots</hi> are of a certaine arrived in the North alſo, but what number yet J cannot learne.</p>
+            <p>It is Rumoured in <hi>Dublin,</hi> that now the <hi>Parliament</hi> in <hi>England</hi> will preſſe a great Army for <hi>Leiceſter,</hi> and that he will be here before Eaſter.</p>
+            <p>We are likely to bee beſet on all ſides, and for ought I ſee to be devoured, <hi>Roach</hi> is Arrived out of <hi>France,</hi> but with as little comfort, The Cardinall giveth good words, but wee may juſtly ſuſpect his performance.</p>
+            <p>The French King is ſo imbarked in the Spaniſh Broyle, that he I feare will little heed vs, my men begin to be weary of it already, The ſame <hi>Philomy</hi> writes of his, And ſo it will follow in others, For we are naked of Armes, And e<g ref="char:EOLhyphen"/>ſpecially deſtitute of powder, The taking of that proviſion at <hi>Eniskenning</hi> hath loſt vs both our Lives and Honour, Let me deſire you, at your firſt conveniencie, to ſend my Wife and Three Daughters for <hi>Nantes,</hi> or <hi>Dunkirke,</hi> And for my part, if friends abroad regard neither the Common tye of the Catholique Faith; Not their former promiſes, But onely their owne particulers: As we have but too juſt cauſe to doubt they doe not, J will ſhortly over too, lea<g ref="char:EOLhyphen"/>ving all to the Arbitrament of Fortune, Rather then to ſee the miſerable ſlavery of my Nation, And utter treading
+<pb facs="tcp:156547:3"/>
+downe of my Countrey by the Barbarous morelleſſe Scots, and proud inſulting Engliſh; If you have any better Ty<g ref="char:EOLhyphen"/>dings to write, You may Commit them to the bearer ſafe<g ref="char:EOLhyphen"/>ly, <hi>Macke me Cherrie,</hi> Who by reaſon of his perfect En<g ref="char:EOLhyphen"/>gliſh Tongue, paſſeth for one of that Nation; And there<g ref="char:EOLhyphen"/>by ſometime doth advantage vs; My Love Commend vn<g ref="char:EOLhyphen"/>to my Carefull Counteſſe and Young Daughter; Thus Com<g ref="char:EOLhyphen"/>mitting your and our affayres to the Almighty, and protecti<g ref="char:EOLhyphen"/>on of Saint <hi>PATRICKE.</hi>
+            </p>
+            <closer>
+               <dateline>From Dondeniell.
+<date>March. 14. 1641.</date>
+               </dateline>
+               <signed>Charles Oſmond.</signed>
+            </closer>
+         </div>
+         <div type="papal_bull">
+            <pb facs="tcp:156547:4"/>
+            <head>The Coppie of the <hi>Popes Bull</hi> unto the <hi>Iriſh Rebels.</hi>
+            </head>
+            <p>VRBAN the eyght, by the Divine providence, Biſhop of <hi>Rome.</hi> Biſhop of Biſhops, and ſervant of the ſer<g ref="char:EOLhyphen"/>vant of God. To all the Cleargie, Peeres, and people of Jreland, his well beloved Sonnes in Chriſt, now conſederate in holy League, for the maintenance of Ca<g ref="char:EOLhyphen"/>tholique Religion to the very perill of their blood, greeting and Apoſtolicall benediction.</p>
+            <p>SEeing that your unſpeakeable ſufferings have beene now of late related unto us, by the <hi>Provoſt</hi> of the Iriſh Nation, of late which yee have undergone for theſe many Ages, not onely patiently, but willingly groaning under the Egyp<g ref="char:EOLhyphen"/>tian Yoake of Heteſie, more heavie then that of <hi>Pharoahs,</hi> yea and moſt ready to beare it ſtill, ſo that, the one thing ne<g ref="char:EOLhyphen"/>ceſſary, the moſt unvaluable <hi>Pearle,</hi> the better part might not hee taken from you, nor the gate of Eternall happineſſe after Life ended ſhut againſt you. Which when wee underſtood, Wee as our dutie required, with bended Knee both of heart and bodie, have recommended this your moſt pious in<g ref="char:EOLhyphen"/>tention to the Throne of grace, at the bleſſed Sacrifice of the Altar, feare yee not that ever ayde celeſtiall ſhall be wanting to you, who have ſo religiouſly preferred the ſalvation of your Souls, Chriſts Spouſe, the welfare of the Church Catho<g ref="char:EOLhyphen"/>lque, before your lively hoods and honours, freinds, Fathers, Mothers, Wives, Children, Sonnes, Daughters, Yea, and then which nothing is more deare to man, life it ſelfe, how ſhall the Saviour of the World paſſe by you diſregarded, whom in his Goſpell he ſolemnely profeſſeth to be more deare unto him then his owne Bretheren ſhall not Chriſt
+<pb facs="tcp:156547:4"/>
+fight for his owne Champions, will not bleſſed <hi>St. Peter</hi> maintaine them that weigh not their owne poſſeſſions, ſo they may deſend his, God forbid that you ſhould ever be deſti<g ref="char:EOLhyphen"/>tute of aſſiſtance, who have the bleſſed Mother of God for their ſhield and Buckler, as whom they honour, reverence, and adore, more zealouſly then all the World, goe on with proſperous ſucceſſe, behave your ſelves manfully, that which yee have with tranſcendant piety begun, Wee earneſtly re<g ref="char:EOLhyphen"/>quire that with reſolved conſtancy yee endeavour to accom<g ref="char:EOLhyphen"/>pliſh, ſtrictly charging you that you by no meanes ye with<g ref="char:EOLhyphen"/>draw your hand from this plough, leaſt yee be ever after unfit for the glorious ſociety of heavenly trumphant Catho<g ref="char:EOLhyphen"/>liques, you ſhall not onely have the univerſall party of the Roman Catholique faith ſpectators, but Orators and fuitors to the divine Deity in heaven but coadjutors, contributors to their utmoſt power in wiſhes conſultations, allowances both for Armes, Victuals and other things neceſſary there in your Country &amp; of this be aſſured, as for us to whom the government of our Lords bleſſed veſſell is committed, doubt yee not but that you ſhall continually have us an interceſſor to the Court of heaven for you, and an advances of your ſucceſſe, and en<g ref="char:EOLhyphen"/>terprize there in your Kingdome, all the wayes wee for our Paſtorall dutie ſhall thinke meeteſt: What remaineth, Wee by this our Legate <hi>Orobie</hi> with the ſumme of Foure hundred Duckets; with hearty recommendation and paſtorall affection beſtow upon you our plenarie Judulgence of all your ſinnes, and benediction Apoſtolicall.</p>
+            <closer>
+               <dateline>Given at Rome <date>the laſt of <hi>February
+New-ſtile, Anno Salutis</hi> 1642.</date> Under the Seale of the Fiſherman, in the Nineteenth yeare of our Popedome.</dateline>
+            </closer>
+            <argument>
+               <p>Under written, Rancone and S. R. L. P. S.</p>
+            </argument>
+         </div>
+         <div type="document">
+            <pb facs="tcp:156547:5"/>
+            <head>His Majeſties Anſwer to a Meſſage ſent to Him by the Houſe of Commons, concerning Lycences granted by him to perſons to goe into <hi>Ireland.</hi>
+            </head>
+            <p>HIS Majeſty hath ſeen and conſidered the Meſſage preſented to Him by the Lord: <hi>Compton</hi> and Maſter <hi>Baynton,</hi> the 19th of <hi>March,</hi> 1641. at <hi>Yorke;</hi> Touching ſuch perſons as have been Licenſed by His Majeſty to paſſe into <hi>Ireland.</hi>
+            </p>
+            <p>Though he will not inſiſt upon what little Reaſon they had to ſuſpect that ſome ill-affected perſons had paſſed into <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> under colour of his Majeſties Licence (Inferences be<g ref="char:EOLhyphen"/>ing ſlender Proofes to ground beliefe upon) yet he muſt needs avow, That for any thing that is yet Declared, He cannot ſee any ground why Maſter <hi>Pym</hi> ſhould ſo boldly affirme before both houſes of Parliament, <hi>I hat ſince the ſtop upon the Ports by both Houſes againſt all Iriſh Papiſts, many of the chiefe Com<g ref="char:EOLhyphen"/>manders now in the head of the Rebells, have been ſuffered to paſſe by his Majeſties immediate VVarant;</hi> For as yet there is not any particular perſon named that is now ſo much as in Rebellion (much leſſe in the head of the Rebells) to whom his Majeſty hath given Licence.</p>
+            <p>And therefore according to his Majeſties Reply upon that Subject, His Majeſtie expects, That his Houſe of Commons publiſh ſuch a Declaration, Whereby this miſtaking may be cleared, That ſo all the World may ſee his Majeſties Caution in giving of Paſſes; And likewiſe, That his Miniſters have not abuſed his Majeſties truſt, by any ſurreptitious Warrants.</p>
+            <p>And laſtly, his Ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſty expects, That hen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eforth there be more warine<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e uſed, before ſuch publike Aſperſions be laid; unleſſe the Grounds be before-hand better Warranted by ſuf<g ref="char:EOLhyphen"/>ficient Proofes.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
